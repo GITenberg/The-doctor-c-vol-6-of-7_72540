@@ -1,6 +1,9 @@
 _repo: The-doctor-c-vol-6-of-7_72540
 _version: 0.1.0
 alternative_title: The doctor, etc., vol. 6 (of 7)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Southey, Robert
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56724
     wikipedia: https://en.wikipedia.org/wiki/John_Wood_Warter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72540#The-doctor-c-vol-6-of-7
 gutenberg_issued: '2023-12-29'
 gutenberg_type: Text
 identifiers:
